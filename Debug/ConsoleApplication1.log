@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(123,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(132,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(198,30): warning C4244: '=': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(199,32): warning C4244: '=': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(249,19): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(268,30): warning C4244: '=': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ppmd_coder.h(269,32): warning C4244: '=': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+C:\Users\Dicko\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Dicko\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe

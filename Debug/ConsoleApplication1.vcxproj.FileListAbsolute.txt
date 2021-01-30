@@ -1,0 +1,2 @@
+C:\Users\Dicko\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Dicko\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.pdb
